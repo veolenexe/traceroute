@@ -68,4 +68,4 @@ if __name__ == '__main__':
     if address and address!='-h':
         TraceRoute(address)
     else:
-        print(' пример запуска : py traceroute.py АДРЕС')
+        print(' пример запуска : py traceroute.py АДРЕС\n автор: Скрипченко Илья Александрович КН-202 МЕН-280207')
